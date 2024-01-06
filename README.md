@@ -1,5 +1,5 @@
 # Planetarium API Service
-API Service for planetarium
+API Service for Planetarium management
 
 ## Features
 - JWT authenticated
